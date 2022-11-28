@@ -12,7 +12,7 @@ Skills: C++ / Python / VUE JS / CUDA / SQL / Redis / TensotRT
 
 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/dr413677671)](https://github.com/anuraghazra/github-readme-stats) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr413677671&show_icons=true&theme=buefy)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dr413677671&show_icons=true&theme=buefy) -->
 
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/https://github.com/dr413677671)   -->
