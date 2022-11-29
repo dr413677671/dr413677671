@@ -2,7 +2,7 @@
 Focus on Autonomous Vehicles and Medical Images. 
 Enthusiastic Deep-Learning worker (in large thread-pool).
 
-Skills: C++ / Python / VUE JS / CUDA / SQL / Redis / TensotRT
+ - Skills: C++ / Python / VUE JS / CUDA / SQL / Redis / TensotRT
 
 - 🌱 He's currently learning Streaming and Multi-Media Processing 
 
