@@ -1,4 +1,4 @@
-#### This is a black cat speaking. The cat is a CV Full-stack Engineer.
+#### The black cat is a CV Full-stack Engineer.
 Focus on Autonomous Vehicles and Medical Images. 
 Enthusiastic Deep-Learning worker (in large thread-pool).
 
