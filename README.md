@@ -1,4 +1,3 @@
-#### >> The black cat is a CV Full-stack Engineer.
 He is a C++ and Python developer focus on autonomous vehicles and medical image processing. 
 He consider himself as a enthusiastic deep-Learning worker in a large thread-pool.
 
